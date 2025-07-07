@@ -39,4 +39,4 @@ From Jenkins (already connected to the home server via a build agent), we want t
 - frp-server-up.sh
 - frp-server-down.sh
 - frp-client-up.sh
-- frp-clirnt-down.sh
+- frp-client-down.sh
